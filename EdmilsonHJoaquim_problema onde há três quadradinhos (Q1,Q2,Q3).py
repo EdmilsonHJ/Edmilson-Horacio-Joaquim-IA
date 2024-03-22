@@ -1,3 +1,4 @@
+#Mini-Teste1 - Edmilson Horacio Joaquim
 import random
 
 class Ambiente:
